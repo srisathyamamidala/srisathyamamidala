@@ -1,16 +1,25 @@
-### Hi there 👋
-
+### Hey this is Sri Sathya Mamidala 👋
+I am Sri Sathya Mamidala studying masters in Applied Computer Science at Northwest Missouri State University.
 <!--
 **srisathyamamidala/srisathyamamidala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##I am currently learning
+---
+####Masters in Applied Computer Science
+*Graduate direct project
+*Mobile computing iOS
+*Patterns and Frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+##About me
+*I am very interested in java and my ultimate goal is to become a java developer.
+*I love to travel 
+
+
+
+
+
+- 📫 ####How to reach me
+---
+You can reach me through my personal email: sathya.mamidala1@gmail.com
+
