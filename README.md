@@ -1,7 +1,7 @@
 ### Hey this is Sri Sathya Mamidala 👋
 I am Sri Sathya Mamidala studying masters in Applied Computer Science at Northwest Missouri State University.
-<!--
-**srisathyamamidala/srisathyamamidala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 ##I am currently learning
 ---
