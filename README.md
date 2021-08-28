@@ -5,10 +5,10 @@ I am Sri Sathya Mamidala studying masters in Applied Computer Science at Northwe
 
 ## I am currently learning
 ---
-####Masters in Applied Computer Science
-*Graduate direct project
-*Mobile computing iOS
-*Patterns and Frameworks
+#### Masters in Applied Computer Science
+* Graduate direct project
+* Mobile computing iOS
+* Patterns and Frameworks
 
 ---
 ## About me
