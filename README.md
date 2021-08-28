@@ -22,7 +22,7 @@ I am Sri Sathya Mamidala studying masters in Applied Computer Science at Northwe
 
 
 
--📫 #### How to reach me
+#### How to reach me 
 ---
-You can reach me through my personal email: sathya.mamidala1@gmail.com
+📧 You can reach me through my personal email: sathya.mamidala1@gmail.com
 
